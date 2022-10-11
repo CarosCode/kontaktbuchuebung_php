@@ -1,0 +1,10 @@
+{
+    "1": {
+        "name": "Dieter Durstig",
+        "phone": "0176589345"
+    },
+    "2": {
+        "name": "Fred Feuerstein",
+        "phone": "01786598543"
+    }
+}
